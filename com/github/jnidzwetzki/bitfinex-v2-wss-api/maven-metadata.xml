@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <groupId>com.github.jnidzwetzki</groupId>
+  <artifactId>bitfinex-v2-wss-api</artifactId>
+  <versioning>
+    <release>0.7.9-snapshot</release>
+    <versions>
+      <version>0.7.9-snapshot</version>
+    </versions>
+    <lastUpdated>20230506194138</lastUpdated>
+  </versioning>
+</metadata>
